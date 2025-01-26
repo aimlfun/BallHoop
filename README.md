@@ -1,5 +1,5 @@
 # BallHoop
-From the postinf: https://aimlfun.com/ai-shooting-basket-ball/
+From the posting: https://aimlfun.com/ai-shooting-basket-ball/
 
 This application requires .net9 and Visual Studio 2022 (Community works).
 
